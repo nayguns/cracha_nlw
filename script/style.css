@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url(../root/images/Mobile.png);
+  background: url(./root/images/Mobile.png);
   width: 375px;
   height: 812px;
 }
